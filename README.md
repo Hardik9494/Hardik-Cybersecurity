@@ -9,7 +9,7 @@ I am an undergraduate Information Systems student with a passion for technology 
 - 📚 Studying Google Cyber Security Certificate on [Coursera](https://www.coursera.com/).
 - 👯 I’m looking to collaborate on cyber security projects and other tech-related projects.
 - 💬 Ask me about anything related to information systems and cyber security.
-- 📫 How to reach me: You can email me at hardik9494@example.com.
+- 📫 How to reach me: You can email me at hardikpandey123@gmail.com.
 - ⚡ Fun fact: I enjoy solving complex problems and puzzles.
 
 ## GitHub Stats
